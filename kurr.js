@@ -1413,7 +1413,7 @@ reply('http://youtube.com/c/KurrXd')
 listMsg = {
  buttonText: `serah lu dah kalo ngeyel`,
  footerText: '',
- description: `JANGAN DIBUKA`,
+ description: `JANGAN DIBUKA NTAR KAGET`,
  sections: [
                      {
                       "title": `Bagaimana hadiahnya?`,
